@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626507287 source:c:\users\nowshad\desktop\c++\reversestack\main.cpp
+	<iostream>
+	<stack>
+	<cstring>
+
