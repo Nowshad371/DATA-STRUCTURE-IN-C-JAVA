@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626507654 source:c:\users\nowshad\desktop\c++\palindromestack\main.cpp
+	<iostream>
+	<stack>
+	<cstring>
+
